@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rajeshbaramol.github.io/csb-1rhve6/static/css/main.1126d577.chunk.css",
+    "main.js": "https://rajeshbaramol.github.io/csb-1rhve6/static/js/main.f5e453ea.chunk.js",
+    "main.js.map": "https://rajeshbaramol.github.io/csb-1rhve6/static/js/main.f5e453ea.chunk.js.map",
+    "runtime-main.js": "https://rajeshbaramol.github.io/csb-1rhve6/static/js/runtime-main.6b4bbd18.js",
+    "runtime-main.js.map": "https://rajeshbaramol.github.io/csb-1rhve6/static/js/runtime-main.6b4bbd18.js.map",
+    "static/js/2.2f17cc46.chunk.js": "https://rajeshbaramol.github.io/csb-1rhve6/static/js/2.2f17cc46.chunk.js",
+    "static/js/2.2f17cc46.chunk.js.map": "https://rajeshbaramol.github.io/csb-1rhve6/static/js/2.2f17cc46.chunk.js.map",
+    "index.html": "https://rajeshbaramol.github.io/csb-1rhve6/index.html",
+    "static/css/main.1126d577.chunk.css.map": "https://rajeshbaramol.github.io/csb-1rhve6/static/css/main.1126d577.chunk.css.map",
+    "static/js/2.2f17cc46.chunk.js.LICENSE.txt": "https://rajeshbaramol.github.io/csb-1rhve6/static/js/2.2f17cc46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b4bbd18.js",
+    "static/js/2.2f17cc46.chunk.js",
+    "static/css/main.1126d577.chunk.css",
+    "static/js/main.f5e453ea.chunk.js"
+  ]
+}
